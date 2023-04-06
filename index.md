@@ -10,9 +10,9 @@
 > [Other File](https://hellofatimad.github.io/cse15l-lab-reports/mochi.html)
 > BlockQuote 2
 
-*List 
-*List
-*List 
+* List 
+* List
+* List 
 
 1. One
 2. Two
