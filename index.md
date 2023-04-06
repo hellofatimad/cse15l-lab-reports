@@ -8,7 +8,12 @@
 ![Image](https://www.pinterest.com/pin/625437466979133226/)
 
 > [Other File](https://hellofatimad.github.io/cse15l-lab-reports/mochi.html)
+
 > BlockQuote 2
+
+*Testing
+**Markdown**
+Formatting*
 
 * List 
 * List
