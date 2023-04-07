@@ -5,7 +5,7 @@
 ## welcome to my page
 [HomeLink](https://hellofatimad.github.io/cse15l-lab-reports/)
 
-![Image](https://www.pinterest.com/pin/625437466979133226/)
+![Image](https://i.pinimg.com/originals/71/84/32/718432c11b8bbcaaaf3fe5b01b8f30c3.png)
 
 > [Other File](https://hellofatimad.github.io/cse15l-lab-reports/mochi.html)
 
