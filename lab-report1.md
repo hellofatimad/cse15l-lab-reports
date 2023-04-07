@@ -71,9 +71,12 @@ Cluster Status
     * you should use your UCSD username@ieng6.ucsd.edu account. 
     > You already have the password set (the regular one to access email and tritonlink)
     
-    It will work just the same, and you should be able to receive the same messages from the second step. 
+    It will work just the same, and you should be able to receive the same messages from the second step.
+
+
+In my case, I had to use my ucsd ieng6 account because the remote server closed the connection on its own when I was attempting to login on my cs15l account. Thankfully, I had help from a TA, and at the end of section, I had to put down my information to request IT in order to fix my situation. I was told that it was an ADs problem, so IT will help.
     
-    Hooray! You may go to part 3 and begin.
+   Hooray! You may go to part 3 and begin.
 
 ---
 
