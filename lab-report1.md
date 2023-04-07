@@ -29,7 +29,7 @@ In attempt to connect to the server, I followed the steps to establishing a conn
 2. After creating the new terminal, type this code block in your terminal. 
     **REMEMBER** do NOT include the $ or % sign.
    
-   > `$ ssh cs15lsp23__@ieng6.ucsd.edu`
+   `$ ssh cs15lsp23__@ieng6.ucsd.edu`
    
    > replace the underscore with the last two letters, SPECIFIC to your account!
 
@@ -46,6 +46,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
    It will ask for your password to your cs15l account! Don't worry about not seeing any characters pop up. The characters you type for your password will be invisible.
    
    You have successfully connected to the server if you see this message from the terminal:
+   
 ```
 Hello cs15lsp23__, you are currently logged into ieng6-203.ucsd.edu
 
@@ -58,6 +59,7 @@ Cluster Status
   ieng6-203   23:25:01   1  0.08,  0.15,  0.11
     
  ``` 
+ 
   **PROCEED TO STEP 3 if you see error**
   
   Otherwise, you are done with *Part 2*!
