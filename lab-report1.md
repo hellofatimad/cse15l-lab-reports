@@ -75,7 +75,7 @@ Cluster Status
 
 ---
 
-##Part 3: Trying Some Commands
+## Part 3: Trying Some Commands
 
 ![Image](lab1cmds.png)
 
