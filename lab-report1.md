@@ -156,7 +156,7 @@ The following are the commands that I've used:
 ---
 
 
-If you want to exit the remote server, you can do two of the following:
+If you want to exit the remote server, you can do any two of the following:
 
    * Ctrl + d
    * Type `exit` in your terminal
