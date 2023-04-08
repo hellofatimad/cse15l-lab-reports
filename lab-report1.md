@@ -60,18 +60,18 @@ Cluster Status
     
  ``` 
  
-  **PROCEED TO STEP 3 if you see error**
+  **PROCEED TO THE NEXT STEP if you see error**
   
   Otherwise, you are done with *Part 2*!
   
-3. If you are experiencing any errors like I did, I recommend doing the following in order: 
+If you are experiencing any errors like I did, I recommend doing the following in order: 
     * double check if you typed in your password correctly!
     
-    If that doesn't work, 
+   If that doesn't work, 
     * you should use your UCSD username@ieng6.ucsd.edu account. 
     > You already have the password set (the regular one to access email and tritonlink)
     
-    It will work just the same, and you should be able to receive the same messages from the second step.
+   It will work just the same, and you should be able to receive the same messages from the second step.
 
 
 In my case, I had to use my ucsd ieng6 account because the remote server closed the connection on its own when I was attempting to login on my cs15l account. Thankfully, I had help from a TA, and at the end of section, I had to put down my information to request IT in order to fix my situation. I was told that it was an ADs problem, so IT will help.
