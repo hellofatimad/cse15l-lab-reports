@@ -162,5 +162,8 @@ If you want to exit the remote server, you can do two of the following:
    * Type `exit` in your terminal
 
 
+---
+
+
  **Thanks for following the process with me!**
   
