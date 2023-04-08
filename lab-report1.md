@@ -142,8 +142,9 @@ The following are the commands that I've used:
 * `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/ ` or `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
     
     The `cp` command means to copy, and the `cat` command means to print out the contents of the desired file
-    > They are both followed by the path to a file
-    > However, my output was 
+    > They are both followed by the path to a file.
+    > 
+    > However, my output showed this:
     
     ```
     No such file or directory
