@@ -65,11 +65,11 @@ Cluster Status
   Otherwise, you are done with *Part 2*!
   
 If you are experiencing any errors like I did, I recommend doing the following in order: 
-    * double check if you typed in your password correctly!
+   * double check if you typed in your password correctly!
     
    If that doesn't work, 
-    * you should use your UCSD username@ieng6.ucsd.edu account. 
-    > You already have the password set (the regular one to access email and tritonlink)
+   * you should use your UCSD username@ieng6.ucsd.edu account. 
+   > You already have the password set (the regular one to access email and tritonlink)
     
    It will work just the same, and you should be able to receive the same messages from the second step.
 
