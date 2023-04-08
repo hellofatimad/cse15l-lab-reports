@@ -84,7 +84,82 @@ In my case, I had to use my ucsd ieng6 account because the remote server closed 
 
 ![Image](lab1cmds.png)
 
+In this part, we will be trying out some commands in the terminal. When making these commands, they will be received from your device and the remote server.
+
+The following are the commands that I've used:
+
+* `ls`
+   
+   This command in particular is known for "list". It would list all of the files and folders contained in the current directory/path
+   > Output: perl5
 
 
- 
+* `ls -lat`
+    
+    This command is also part of the list. In addition to the ` -lat` command, it lists out all of the owners, names of the files, and dates within the current directory, including the total amount.
+
+
+* `cs ~`
+    
+    Ignore this command. It was a typo that I made. However, something I found interesting is that my output was:
+    ```
+    bash: cs: command not found...
+    similar commands are::
+    'ss'
+    'cc'
+    ```
+    
+    > I was surprised that my output gave options of what other possible commands I could've meant
+
+
+* `cd ~` or `cd`
+    
+    In general, the `cd` command means to change directory, and adding the `~` at the end of the command means to change the directory to the home directory. Typically, the format of this command is `cd <path>`, which changes the directory to the desired path.
+    
+    After using these commands in the terminal, I was surprised to find out that there were no outputs. 
+    >  * I think having no output for `cd ~` means that the terminal is currently at the home directory 
+    >  * As for `cd` command, the reason for not having any outputs is due to not having a `<path>` name right after.
+    
+    **Note**
+    * Do not include the <> in your command, just use the path's name
+    * Always add a space after your commands before adding any additional info
+
+
+* `ls -a`
+    
+    As mentioned earlier, `ls` command is listing out the files. Adding the `-a` at the end of the command is for listing all of the files contained in the current directory.
+
+
+* `ls /home/linux/ieng6/cs15lsp23/cs15lsp23abc`
+    
+    Replace the `abc` with another user's account.
+    
+    In particular, this command is for listing out another user's files by using the `ls` command, followed by the path from the home directory to the child directory.
+    
+    > I am not surprised that my permission was denied from this attempt. It would be an invasion of private property and violates privacy laws if it worked.
+
+
+* `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/ ` or `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+    
+    The `cp` command means to copy, and the `cat` command means to print out the contents of the desired file
+    > They are both followed by the path to a file
+    > However, my output was 
+    
+    ```
+    No such file or directory
+    ```
+    
+    I am not surprised from this output as this file does not exist in my account. Thus, I cannot obtain or print out the text from the nonexistent file.
+    
+    
+---
+
+
+If you want to exit the remote server, you can do two of the following:
+
+   * Ctrl + d
+   * Type `exit` in your terminal
+
+
+ **Thanks for following the process with me!**
   
