@@ -60,6 +60,7 @@ Cluster Status
     
  ``` 
  Congrats! You are done with *Part 2!*
+ 
  You successfully connected to a remote server.
  
   **PROCEED TO THE NEXT STEP if you see error**
