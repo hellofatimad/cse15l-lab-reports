@@ -59,10 +59,11 @@ Cluster Status
   ieng6-203   23:25:01   1  0.08,  0.15,  0.11
     
  ``` 
+ Congrats! You are done with *Part 2!*
+ You successfully connected to a remote server.
  
   **PROCEED TO THE NEXT STEP if you see error**
   
-  Otherwise, you are done with *Part 2*!
   
 If you are experiencing any errors like I did, I recommend doing the following in order: 
    * double check if you typed in your password correctly!
@@ -74,7 +75,7 @@ If you are experiencing any errors like I did, I recommend doing the following i
    It will work just the same, and you should be able to receive the same messages from the second step.
 
 
-In my case, I had to use my ucsd ieng6 account because the remote server closed the connection on its own when I was attempting to login on my cs15l account. Thankfully, I had help from a TA, and at the end of section, I had to put down my information to request IT in order to fix my situation. I was told that it was an ADs problem, so IT will help.
+In my case, I had to use my ucsd ieng6 account because the remote server closed the connection on its own when I was attempting to login on my cs15l account. My ucsd ieng6 account gave me the same output as what a cs15l account should get after connecting to a remote server. Thankfully, I had help from a TA, and at the end of section, I had to put down my information to request IT in order to fix my situation. I was told that it was an ADs problem, so IT will help.
     
    Hooray! You may go to part 3 and begin.
 
@@ -84,7 +85,7 @@ In my case, I had to use my ucsd ieng6 account because the remote server closed 
 
 ![Image](lab1cmds.png)
 
-In this part, we will be trying out some commands in the terminal. When making these commands, they will be received from your device and the remote server.
+In this part, we will be trying out some commands in the terminal. When making these commands, your device and the remote server will receive them.
 
 The following are the commands that I've used:
 
