@@ -46,6 +46,9 @@ The reason why this is a failure-inducing input is that the user may not input a
 
 However, if the user does not input anything for String s value, then the array would be a length of 1 and `array[1]` would not exist. 
 
+I wanted to check for possible failure-inducing input, so I tried to create a URI object without a String s value. Upon attempting, I had this on my webpage:
+> ![Image](StringServerException.png)
+
 In order to fix this problem, I did 
 ```
 if(params.length == 1){
@@ -53,7 +56,7 @@ if(params.length == 1){
 }
 ```
 
-Throwing an exception with String message would not include it in the webpage! By throwing an exception, it would allow the code to catch it and keep it running for the user!
+Throwing an exception with String message would not include it in the webpage! By throwing an exception, it would allow the code to catch it and keep it running for the user! `params` is the name of the array that was created from the string split method. If the length of the params array is 1, then the user did not input anything for the String s value. 
 
 ### Onto part 3!
 
