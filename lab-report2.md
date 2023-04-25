@@ -35,6 +35,8 @@ This is my code for StringServer! The purpose of this file is to display strings
 
 ### Onto part 2!
 
+---
+
 ## Part 2
 
 For the failure-inducing input of this code:
@@ -56,10 +58,16 @@ if(params.length == 1){
 }
 ```
 
-Throwing an exception with String message would not include it in the webpage! By throwing an exception, it would allow the code to catch it and keep it running for the user! `params` is the name of the array that was created from the string split method. If the length of the params array is 1, then the user did not input anything for the String s value. 
+Throwing an exception with String message would not include it in the webpage! By throwing an exception, it would allow the code to catch it and keep it running for the user! `params` is the name of the array that I created from the string split method. If the length of the params array is 1, then the user did not input anything for the String s value. 
 
 ### Onto part 3!
-
+---
      
+## Part 3
 
+Something that I learned from weeks 2 was running a remote server through a method we were given. I've always thought that starting a server required a lot more code, and a port is something specific to your device. During lab, we were taught on how to access other's server, which I find pretty cool.
+
+--- 
+
+Thanks for following the process with me!
 
