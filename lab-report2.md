@@ -56,7 +56,8 @@ An example of an input that would not induce a failure would be:
 > `int [] emptyArray = [];`
 
 The symptoms based on the two provided inputs above:
-> 
+> <img src="failureOutputLab2.png" style= "width:700px; height:450px;">
+
 Before code:
 ```
   static void reverseInPlace(int[] arr) {
@@ -76,6 +77,10 @@ After code:
     }
   }
 ```
+
+Explanation:
+
+The reason the fix addressed the issue. The original code was making all the elements the previous one. With the new code, it fixed the bug by looping through the array halfway and creating a temporary variable and referencing it to the original value of that specific index. Once created the `temp` variable, it would be switched with the other array index value, making it "reverse" the values of the original array.
 
 ### Onto part 3!
 ---
