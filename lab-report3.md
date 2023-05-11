@@ -44,7 +44,7 @@ Directories must be in technical!
   `grep -c "divert" ./911report/chapter-1.txt`
   
   * Output:
-  
+  > ![Image](OutputCmd3.png)
 
   * Explanation:
   
@@ -56,6 +56,7 @@ Directories must be in technical!
   `grep -c "databases" ./plos/journal.pbio.0020001.txt`
   
   * Output:
+  > ![Image](OutputCmd4.png)
   
   * Explanation:
   
@@ -69,6 +70,7 @@ Directories must be in technical!
   `grep "Divert" -i ./911report/chapter-1.txt`
   
   * Output:
+  > ![Image](OutputCmd5.png)
   
   * Explanation:
   
@@ -79,6 +81,7 @@ Directories must be in technical!
   `grep "Databases" -i ./plos/journal.pbio.0020001.txt`
   
   * Output:
+  ![Image](OutputCmd6.png)
   
   * Explanation: 
   
@@ -92,6 +95,7 @@ Directories must be in technical!
   `grep "divert" -n ./911report/chapter-1.txt`
   
   * Output:
+  ![Image](OutputCmd7.png)
   
   * Explanation:
   
@@ -102,9 +106,13 @@ Directories must be in technical!
   `grep "databases" -n ./plos/journal.pbio.0020001.txt`
   
   * Output:
-
+  ![Image](OutputCmd8.png)
 
   * Explanation:
   
-    * This grep command outputs the line and line number containing the keyword. This is particularly useful if I want to locate the keyword. 
+    * This grep command outputs the line and line number containing the keyword. This is particularly useful if I want to locate the keyword.
+
+---
+
+Thanks for following the process with me! :)
  
