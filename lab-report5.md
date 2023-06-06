@@ -22,7 +22,7 @@ Did you check which directory you are currently in? Try creating a file diagram 
 In addition to that, it also says that these following files or directories do not exist: `TestListExamples.java`, `grading-area`, `student-submission/List-Examples.java`, and `ListExamples.java`. 
 The class path is unable to access the JUnit class, which outputs `ClassNotFoundException`. The bug and its symptoms are mainly being unable to access files or directories the way I intended to.
  
- ### Information Needed for Set Up 
+### Information Needed for Set Up 
  * <img src="fileStructureLab5.png" style= "width:350px; height:400px;">
  
  * <img src="beforeBugL5.png" style= "width:750px; height:600px;">
